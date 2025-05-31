@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 
-// import Count from './components/1_setstate/'
-import Demo from './components/2_lazyload';
+import Demo from './components/3-hooks/ref_hook';
 
 export default class App extends Component {
   render() {
